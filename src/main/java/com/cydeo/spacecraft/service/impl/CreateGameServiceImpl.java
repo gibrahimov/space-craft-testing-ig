@@ -19,7 +19,6 @@ public class CreateGameServiceImpl implements CreateGameService {
 
     private final CreatePlayerService createPlayerService;
     private final CreateTargetService createTargetService;
-
     private final GameRepository gameRepository;
 
 
